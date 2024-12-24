@@ -1,5 +1,5 @@
 import styles from './movieContainer.module.css'
-import Data from '../../Data';
+import Data from '../../data.jsx'
 const Moviecontainer = () => {
     return (
         <>
